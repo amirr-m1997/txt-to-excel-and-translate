@@ -1,0 +1,453 @@
+﻿[
+    {
+        "en": "Welcome",
+        "fa": "خوش آمديد"
+    },
+    {
+        "en": "Username",
+        "fa": "نام کاربري"
+    },
+    {
+        "en": "Password",
+        "fa": "رمز عبور"
+    },
+    {
+        "en": "Login",
+        "fa": "ورود"
+    },
+    {
+        "en": "Code",
+        "fa": "كد"
+    },
+    {
+        "en": "Name",
+        "fa": "نام"
+    },
+    {
+        "en": "Dashboard",
+        "fa": "داشبورد"
+    },
+    {
+        "en": "Users",
+        "fa": "کاربران"
+    },
+    {
+        "en": "Record New Person",
+        "fa": "ثبت كاربر"
+    },
+    {
+        "en": "Accounting ",
+        "fa": "حسابداري"
+    },
+    {
+        "en": "Record New Document",
+        "fa": "ثبت سند جديد"
+    },
+    {
+        "en": "Documents List",
+        "fa": " ليست اسناد"
+    },
+    {
+        "en": "Opining Balance",
+        "fa": " تراز افتتاحيه"
+    },
+    {
+        "en": "Closing Balance",
+        "fa": " تراز اختتاميه"
+    },
+    {
+        "en": "Account Table",
+        "fa": " جدول حساب ها"
+    },
+    {
+        "en": "Banking",
+        "fa": " بانکداري"
+    },
+    {
+        "en": "Banks",
+        "fa": " بانک ها"
+    },
+    {
+        "en": "Cash Register",
+        "fa": " صندوق ها"
+    },
+    {
+        "en": "Revolving Fund",
+        "fa": " تنخواه گردان ها"
+    },
+    {
+        "en": "Transfer",
+        "fa": " انتقال"
+    },
+    {
+        "en": "Transfers List",
+        "fa": " ليست انتقال ها"
+    },
+    {
+        "en": "Receivable Check List",
+        "fa": " ليست چک هاي دريافتني"
+    },
+    {
+        "en": "Payable Check List",
+        "fa": " ليست چک هاي پرداختني"
+    },
+    {
+        "en": "Warehousing",
+        "fa": "انبارداري"
+    },
+    {
+        "en": "New Draft",
+        "fa": "حواله جديد"
+    },
+    {
+        "en": "Warehouse Receipt and Draft",
+        "fa": "رسيد و حواله هاي انبار"
+    },
+    {
+        "en": "Inventory",
+        "fa": "موجودي کالا"
+    },
+    {
+        "en": "Inventory all of Warehouses",
+        "fa": "موجودي تمام انبارها"
+    },
+    {
+        "en": "Warehouse Handing",
+        "fa": "انبار گرداني"
+    },
+    {
+        "en": "Inventory and Service",
+        "fa": "کالاها و خدمات"
+    },
+    {
+        "en": "Create/New Commodity",
+        "fa": "کالاي جديد"
+    },
+    {
+        "en": "Create/ New Service",
+        "fa": "خدمات جديد"
+    },
+    {
+        "en": "Commodity and Service",
+        "fa": "کالاها و خدمات"
+    },
+    {
+        "en": "Sale and Income",
+        "fa": "فروش و درآمد"
+    },
+    {
+        "en": "New Sale",
+        "fa": "فروش جديد"
+    },
+    {
+        "en": "Sale Returns",
+        "fa": "برگشت از فروش"
+    },
+    {
+        "en": "Sale Invoice",
+        "fa": "فاکتور هاي فروش"
+    },
+    {
+        "en": "Sale Returns Invoice",
+        "fa": "فاکتور هاي برگشت از فروش"
+    },
+
+    {
+        "en": "Incom",
+        "fa": "درآمد"
+    },
+    {
+        "en": "Income List",
+        "fa": "ليست درآمدها"
+    },
+    {
+        "en": "Purchase and Expense",
+        "fa": "خريد و هزينه"
+    },
+    {
+        "en": "New Purchase",
+        "fa": "خريد جديد"
+    },
+    {
+        "en": "Purchased Returns",
+        "fa": "برگشت از خريد"
+    },
+    {
+        "en": "Purchased Invoice",
+        "fa": "فاکتورهاي خريد"
+    },
+    {
+        "en": "Purchased Returns Invoice",
+        "fa": "فاکتور هاي برگشت از خريد"
+    },
+    {
+        "en": "Expenses",
+        "fa": "هزينه ها"
+    },
+    {
+        "en": "Expenses List",
+        "fa": "ليست هزينه ها"
+    },
+    {
+        "en": "Wastes",
+        "fa": "ضايعات"
+    },
+    {
+        "en": "Wastes List",
+        "fa": "ليست ضايعات"
+    },
+    {
+        "en": "People ",
+        "fa": "اشخاص"
+    },
+    {
+        "en": "Stock Holders",
+        "fa": "سهامداران"
+    },
+    {
+        "en": "New Person",
+        "fa": "شخص جديد"
+    },
+    {
+        "en": "People",
+        "fa": "اشخاص"
+    },
+    {
+        "en": "Receptions List",
+        "fa": "ليست دريافت ها"
+    },
+    {
+        "en": "Payment List",
+        "fa": "ليست پرداخت ها"
+    },
+    {
+        "en": "Salers",
+        "fa": "فروشندگان"
+    },
+    {
+        "en": "Office Report",
+        "fa": "گزارش دفاتر"
+    },
+    {
+        "en": "Group Ledger",
+        "fa": "دفتر گروه"
+    },
+    {
+        "en": "General Ledger",
+        "fa": "دفتر کل"
+    },
+    {
+        "en": "Subsidiary Ledger",
+        "fa": "دفتر معين"
+    },
+    {
+        "en": "Daftar Tafzili",
+        "fa": "دفتر تفضيلي"
+    },
+    {
+        "en": "Daftar Joze1",
+        "fa": "دفتر جزء يک"
+    },
+    {
+        "en": "Daftar Joze2",
+        "fa": "دفتر جزء دو"
+    },
+    {
+        "en": "Completion Reports",
+        "fa": "گزارش تكميلي"
+    },
+    {
+        "en": "Settings",
+        "fa": "تنظيمات"
+    },
+    {
+        "en": "Warehouse Settings",
+        "fa": "تنظيمات انبار"
+    },
+    {
+        "en": "Group Code",
+        "fa": "كد گروه"
+    },
+    {
+        "en": "General Code",
+        "fa": "كد كل "
+    },
+    {
+        "en": "Subsidiary Code",
+        "fa": "كد معين"
+    },
+    {
+        "en": "Code Tafzili",
+        "fa": "كد تفضيلي"
+    },
+    {
+        "en": "Code Joze 1",
+        "fa": "كد جزء 1"
+    },
+    {
+        "en": "Code Joze 2",
+        "fa": "كد جزء 2"
+    },
+
+    {
+        "en": "Row",
+        "fa": "رديف"
+    },
+
+    {
+        "en": "Document Number",
+        "fa": "شماره سند "
+    },
+    {
+        "en": "Date",
+        "fa": "تاريخ"
+    },
+    {
+        "en": "Discription Account",
+        "fa": "شرح حساب"
+    },
+    {
+        "en": "Debtor",
+        "fa": "بدهكار"
+    },
+    {
+        "en": "Creditor",
+        "fa": "بستانكار "
+    },
+    {
+        "en": "Status",
+        "fa": "وضعيت"
+    },
+    {
+        "en": "Balance",
+        "fa": "مانده"
+    },
+    {
+        "en": "Sale Year",
+        "fa": "سال مالي"
+    },
+    {
+        "en": "Sale Year Selection",
+        "fa": "انتخاب سال مالي"
+    },
+    {
+        "en": "Print",
+        "fa": "چاپ"
+    },
+    {
+        "en": "Search",
+        "fa": "جستجو"
+    },
+    {
+        "en": "Cancel",
+        "fa": "انصراف"
+    },
+    {
+        "en": "Heading Search ...",
+        "fa": "جستجوي سرفصل ..."
+    },
+    {
+        "en": "There is no such code.",
+        "fa": "چنين کدي وجود ندارد."
+    },
+    {
+        "en": "Please enter the previous fields.",
+        "fa": "لطفا فيلدهاي قبلي را وارد نمائيد."
+    },
+    {
+        "en": "Please enter all fields.",
+        "fa": "لطفا همه فيلدها را وارد نمائيد."
+    },
+    {
+        "en": "There is no data.",
+        "fa": "داده اي وجود ندارد."
+    },
+    {
+        "en": "Error",
+        "fa": "خطا"
+    },
+    {
+        "en": "Save Information",
+        "fa": "ثبت اطلاعات"
+    },
+    {
+        "en": "Delete Information",
+        "fa": "حذف اطلاعات"
+    },
+    {
+        "en": "Ok",
+        "fa": "باشه"
+    },
+    {
+        "en": "Save",
+        "fa": "ثبت"
+    },
+    {
+        "en": "Delete",
+        "fa": "حذف"
+    },
+    {
+        "en": "Edit",
+        "fa": "ويرايش"
+    },
+    {
+        "en": "Operation Result",
+        "fa": "نتيجه عمليات"
+    },
+    {
+        "en": "Are you sure of saving the information?",
+        "fa": "آيا از ذخيره اطلاعات اطمينان داريد؟"
+    },
+    {
+        "en": "Are you sure to delete the data?",
+        "fa": "آيا از حذف اطلاعات اطمينان داريد؟"
+    },
+    {
+        "en": "Edit Information",
+        "fa": "ويرايش اطلاعات"
+    },
+    {
+        "en": "Are you sure to edit the data?",
+        "fa": "آيا از ويرايش اطلاعات اطمينان داريد؟"
+    },
+    {
+        "en": "Registration information completed successfully.",
+        "fa": "ثبت اطلاعات با موفقيت انجام شد."
+    },
+    {
+        "en": "The data was deleted successfully.\n",
+        "fa": "حذف اطلاعات با موفقيت انجام شد."
+    },
+    {
+        "en": "The data was edited successfully",
+        "fa": "ويرايش اطلاعات با موفقيت انجام شد."
+    },
+    {
+        "en": "Could not connect to the server.",
+        "fa": "ارتباط با سرور برقرار نشد."
+    },
+    {
+        "en": "An error occurred in the database.",
+        "fa": "خطايي در ديتابيس رخ داد."
+    },
+    {
+        "en": "Please enter the date correctly.",
+        "fa": "لطفا تاريخ را به شکل صحيح وارد نمائيد."
+    },
+    {
+        "en": "Please fill in all fields.",
+        "fa": "لطفا همه فيلدها را پر کنيد."
+    },
+    {
+        "en": "User with this profile was not found.",
+        "fa": "کاربري با اين مشخصات يافت نشد."
+    },
+    {
+        "en": "The logged in user is inactive.",
+        "fa": "کاربر وارد شده غير فعال است."
+    },
+    {
+        "en": "Reports",
+        "fa": "گزارشات"
+    }
+]
