@@ -8,9 +8,10 @@ from deep_translator import GoogleTranslator
 file_path = 'C:/Users/a/Desktop/tabdil json to exel/lang.txt'
 
 # خواندن فایل JSON
-with open(file_path, 'r', encoding='utf-8') as f:
+# with open(file_path, 'r', encoding='utf-8') as f:
+with open(file_path, 'r', encoding='utf-8-sig') as f:
     data = json.load(f)
-
+    print(data)
 # تبدیل دیتا به دیتافریم pandas
 df = pd.DataFrame(data)
 
@@ -25,7 +26,7 @@ df.to_excel(output_excel_path, index=False, engine='openpyxl')
 
 
 # تابع ترجمه متن به زبان ترکی استانبولی
-def translate_text_to_turkish(text, retries=3):
+def translate_text_to_turkish(text, retries=1):
     for attempt in range(retries):
         try:
             translated_text = GoogleTranslator(source='fa', target='tr').translate(text)
